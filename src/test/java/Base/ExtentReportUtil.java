@@ -44,6 +44,8 @@ public class ExtentReportUtil extends BaseUtil {
 
     public void FlushReport(){
         extent.flush();
+        
+        
     }
 
 
